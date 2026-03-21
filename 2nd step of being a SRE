@@ -1,0 +1,20 @@
+🚀 2. Convert your SysAdmin work → SRE mindset
+Right now you are likely doing:
+Server management
+SAP basis support
+Monitoring & tickets
+👉 Shift thinking like this:
+SysAdmin Thinking
+SRE Thinking
+Fix issues
+Prevent issues
+Manual work
+Automation
+Server uptime
+System reliability (SLA/SLO)
+Alerts
+Observability
+🎯 What you should start doing:
+Track downtime, MTTR
+Think: “How can this never happen again?”
+Automate repetitive tasks (scripts)
