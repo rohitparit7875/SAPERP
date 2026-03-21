@@ -1,0 +1,17 @@
+🧠 3. Skills you MUST build (based on your company work)
+Since your company is SAP + Cloud + Infra, your SRE path should be:
+Core Stack (priority order):
+Linux + Networking (strong base)
+Cloud (AWS/Azure) → your company already uses it
+Monitoring tools
+Prometheus
+Grafana
+ELK stack
+Automation
+Bash + Python
+DevOps tools
+Docker
+Kubernetes (VERY important for SRE)
+CI/CD (Jenkins/GitHub Actions)
+💡 Special advantage: 👉 SAP systems are critical systems
+→ This gives you real SRE-level experience early
