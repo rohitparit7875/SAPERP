@@ -1,0 +1,17 @@
+🔐 Bit 2: User & Authorization Security
+🔹 Core Idea:
+Control who can do what in SAP
+🔹 Best Practices:
+Follow Least Privilege Principle
+Avoid giving:
+SAP_ALL
+SAP_NEW
+Use role-based access control (RBAC)
+🔹 Important Topics:
+Role design (Single & Composite roles)
+Segregation of Duties (SoD)
+Firefighter ID (Emergency access)
+🔹 Security Risks:
+Unauthorized access
+Privilege escalation
+Misconfigured roles
