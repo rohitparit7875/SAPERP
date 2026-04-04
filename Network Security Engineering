@@ -1,0 +1,14 @@
+🛡️ Bit 3: SAP System & Network Security
+🔹 Focus Areas:
+Secure communication between SAP systems
+🔹 Key Concepts:
+SNC (Secure Network Communication)
+SSL/TLS encryption
+Firewall & Network segmentation
+🔹 Important Parameters:
+login/min_password_lng
+rdisp/gui_auto_logout
+login/fails_to_user_lock
+🔹 Tools:
+SMGW → Gateway monitoring
+SMICM → HTTP/HTTPS services
