@@ -1,0 +1,15 @@
+🧩 Bit 1: SAP Security Fundamentals
+🔹 What to learn:
+SAP security = Protecting SAP systems, data, and users
+Key components:
+Authentication (Who are you?)
+Authorization (What can you access?)
+Confidentiality, Integrity, Availability (CIA triad)
+🔹 Important SAP Concepts:
+User Types: Dialog, System, Communication, Service
+Roles & Profiles (PFCG)
+Authorization Objects
+🔹 Key Transactions:
+SU01 → User management
+PFCG → Role management
+SU53 → Authorization check
