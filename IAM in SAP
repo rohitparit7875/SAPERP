@@ -1,0 +1,9 @@
+🔐 1. Identity & Access Management (IAM) in SAP
+ This is the foundation of SAP security.
+Controls who can access what
+Uses roles, profiles, authorization objects
+Transactions like:
+SU01 → User management
+PFCG → Role creation
+👉 Example:
+A finance user should not access HR data.
