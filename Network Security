@@ -1,0 +1,6 @@
+🛡️ 2. SAP Network & System Security
+ Focuses on securing communication between SAP systems.
+SAProuter → Controls external access
+Firewall + VPN → Protect network
+SNC (Secure Network Communication) → Encrypts data
+👉 Prevents unauthorized access & data interception
