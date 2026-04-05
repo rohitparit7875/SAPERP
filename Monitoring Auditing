@@ -1,0 +1,9 @@
+📊 4. SAP Logging, Monitoring & Auditing
+ Tracks activities inside SAP systems.
+SM20 → Security audit log
+ST03/STAD → Performance & usage
+Integration with SIEM tools
+👉 Helps detect:
+Unauthorized logins
+Suspicious activities
+Data breaches
