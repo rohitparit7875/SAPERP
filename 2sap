@@ -1,0 +1,8 @@
+2. Important SAP Transactions (T-Codes)
+SM01 / SM02 → System messages
+SM12 → Lock entries
+SM13 → Update requests
+SM21 → System logs
+ST22 → Dump analysis
+ST03 → Workload analysis
+👉 These are daily-use tools for a Basis admin.
