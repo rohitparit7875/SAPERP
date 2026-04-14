@@ -1,0 +1,7 @@
+🔸 1. SAP Landscape Concept
+SAP systems are divided into:
+DEV (Development)
+QA (Testing)
+PRD (Production)
+Changes always move in sequence: DEV → QA → PRD
+👉 Never do direct changes in Production.
