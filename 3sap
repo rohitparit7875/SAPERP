@@ -1,0 +1,6 @@
+🔸 3. SAP Startup & Shutdown
+Commands used:
+startsap
+stopsap
+Always follow proper sequence (DB → SAP → Services)
+👉 Wrong shutdown can cause system issues.
