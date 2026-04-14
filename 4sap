@@ -1,0 +1,7 @@
+4. Client Concept
+A client is a logical partition inside SAP
+Each client has its own:
+Users
+Data
+Configuration
+👉 Example: 100 (DEV), 200 (TEST), 300 (PROD)
