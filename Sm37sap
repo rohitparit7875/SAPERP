@@ -1,0 +1,4 @@
+1. SM37 – Job Monitoring
+Used to monitor background jobs
+Check job status (Active, Finished, Cancelled)
+Useful for troubleshooting failed jobs
