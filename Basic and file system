@@ -1,0 +1,5 @@
+🔹 1. Basic & File System
+Linux architecture, kernel, shell, distributions
+File system structure (/etc, /var, /home)
+Commands: ls, cp, mv, rm, find, df, du
+Inode, hard link vs soft link
