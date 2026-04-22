@@ -1,0 +1,5 @@
+4. Storage, Security & Troubleshooting
+LVM, mount, swap space
+Firewall (iptables, firewalld), SELinux
+Shell scripting basics & cron jobs
+Troubleshooting: high CPU, disk full, service failure
