@@ -1,0 +1,5 @@
+3. Networking & Services
+IP, DNS, SSH basics
+Commands: ip a, ping, netstat, ss
+System services (systemctl, service)
+Boot process & systemd
