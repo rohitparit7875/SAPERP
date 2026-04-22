@@ -1,0 +1,5 @@
+2. User, Permissions & Process
+User management (useradd, passwd, sudo)
+File permissions (chmod, chown, SUID, SGID)
+Process monitoring (ps, top, kill)
+Daemons and process priority (nice value)
