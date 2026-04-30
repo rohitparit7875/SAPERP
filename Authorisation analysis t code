@@ -1,0 +1,5 @@
+Authorization Analysis T-Codes
+SU53 → Check last failed authorization
+ST01 → Authorization trace
+STAUTHTRACE → Advanced authorization trace
+SU56 → User authorization buffer
